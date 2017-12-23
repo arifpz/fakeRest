@@ -1,0 +1,14 @@
+{
+    "post": [
+        {"id": 1, "title": "What", "post": "somehow"},
+        {"id": 2, "title": "Who", "post": "somewhat"}
+    ],
+    "comment": [
+        {"id": 1, "body": "things", "postId": 1},
+        {"id": 1, "body": "things to comment", "postId": 1},
+        {"id": 1, "body": "things to happen", "postId": 2}
+    ],
+    "profile": {
+        "name": "typecode"
+    }
+}
