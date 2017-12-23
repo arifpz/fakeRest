@@ -1,12 +1,42 @@
 {
-    "post": [
-        {"id": 1, "title": "What", "post": "somehow"},
-        {"id": 2, "title": "Who", "post": "somewhat"}
+    "posts": [
+        {"postId": 1, "title": "What", "post": "somehow"},
+        {"postId": 2, "title": "Who", "post": "somewhat"}
     ],
-    "comment": [
-        {"id": 1, "body": "things", "postId": 1},
-        {"id": 1, "body": "things to comment", "postId": 1},
-        {"id": 1, "body": "things to happen", "postId": 2}
+    "comments": [
+        {"commentId": 1, "body": "things", "postId": 1},
+        {"commentId": 2, "body": "things to comment", "postId": 1},
+        {"commentId": 3, "body": "things to happen", "postId": 2}
+    ],
+    "nameSuggestion": [
+        {"nameId": "a", "listOfNames": ["Anna", "Annisa", "Ali", "Albert"]},
+        {"nameId": "b", "listOfNames": ["Beck", "Bend", "Bella"]},
+        {"nameId": "c", "listOfNames": ["Charlie", "Chuck", "Cherry"]},
+        {"nameId": "d", "listOfNames": ["Dean", "Dilan", "Doom"]},
+        {"nameId": "e", "listOfNames": ["Ella", "Ennie", "Ernie", "Elbert"]},
+        {"nameId": "f", "listOfNames": ["Franklin"]},
+        {"nameId": "g", "listOfNames": ["Genie", "Gannisa", "Gelie"]},
+        {"nameId": "h", "listOfNames": ["Hans", "Hamman"]},
+        {"nameId": "i", "listOfNames": ["Ianone", "Inin", "Immo"]},
+        {"nameId": "j", "listOfNames": ["Jackk", "Jean", "Jaap"]},
+        {"nameId": "k", "listOfNames": ["Katherine", "Kate", "Kelly"]},
+        {"nameId": "l", "listOfNames": ["Lit", "Lean", "Loop"]},
+        {"nameId": "m", "listOfNames": ["Martha", "Maen", "Merry"]},
+        {"nameId": "n", "listOfNames": ["Nean", "NaaN", "Null"]},
+        {"nameId": "o", "listOfNames": ["Optimum", "Optiso", "Ops"]},
+        {"nameId": "p", "listOfNames": ["Pan", "Path"]}
+    ],
+    "citySuggestion": [
+        {"cityId": "a", "listOfCities": ["Adelaide", "Ankara"]},
+        {"cityId": "b", "listOfCities": ["Briston", "Brisbane", "Boston"]},
+        {"cityId": "c", "listOfCities": ["Cadiz", "Cairo", "Caen"]},
+        {"cityId": "d", "listOfCities": ["Dakar", "Dallas", "Daegu"]},
+        {"cityId": "e", "listOfCities": ["Eindhoven", "Elche"]},
+        {"cityId": "f", "listOfCities": ["Frankfurt", "Florence", "Fuji"]},
+        {"cityId": "g", "listOfCities": ["Guangzhou", "Geneva", "Gijon"]},
+        {"cityId": "h", "listOfCities": ["Hongkong", "Hanoi"]},
+        {"cityId": "i", "listOfCities": ["Ibaraki", "Inazawa", "Izmir"]},
+        {"cityId": "j", "listOfCities": ["Jakarta", "Jayapura", "Jepara"]}
     ],
     "profile": {
         "name": "typecode"
