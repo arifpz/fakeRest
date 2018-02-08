@@ -38,6 +38,13 @@
         {"cityId": "i", "listOfCities": ["Ibaraki", "Inazawa", "Izmir"]},
         {"cityId": "j", "listOfCities": ["Jakarta", "Jayapura", "Jepara"]}
     ],
+    "fruitSuggestion": [
+        {"cityId": "a", "listOfCities": ["Apple"]},
+        {"cityId": "b", "listOfCities": ["Blueberry", "Blackberry"]},
+        {"cityId": "c", "listOfCities": ["Cherry"]},
+        {"cityId": "d", "listOfCities": ["Delima"]},
+        {"cityId": "e", "listOfCities": ["Eclair"]}
+    ],
     "profile": {
         "name": "typecode"
     }
