@@ -39,11 +39,17 @@
         {"cityId": "j", "listOfCities": ["Jakarta", "Jayapura", "Jepara"]}
     ],
     "fruitSuggestion": [
-        {"cityId": "a", "listOfCities": ["Apple"]},
-        {"cityId": "b", "listOfCities": ["Blueberry", "Blackberry"]},
-        {"cityId": "c", "listOfCities": ["Cherry"]},
-        {"cityId": "d", "listOfCities": ["Delima"]},
-        {"cityId": "e", "listOfCities": ["Eclair"]}
+        {"fruitId": "a", "listOfCities": ["Apple"]},
+        {"fruitId": "b", "listOfCities": ["Blueberry", "Blackberry"]},
+        {"fruitId": "c", "listOfCities": ["Cherry"]},
+        {"fruitId": "d", "listOfCities": ["Delima"]},
+        {"fruitId": "e", "listOfCities": ["Eclair"]}
+    ],
+    "footballClubSuggestion": [
+        {"foootballClubId": "a", "listOfCities": ["Arsenal, Arema"]},
+        {"foootballClubId": "b", "listOfCities": ["Blackburn Rovers", "Burnley"]},
+        {"foootballClubId": "c", "listOfCities": ["Chelsea", "Chievo Verona"]},
+        {"foootballClubId": "d", "listOfCities": ["Duisburg FC", "Dortmund"]},
     ],
     "profile": {
         "name": "typecode"
