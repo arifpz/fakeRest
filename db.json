@@ -51,6 +51,12 @@
         {"foootballClubId": "c", "listOfCities": ["Chelsea", "Chievo Verona"]},
         {"foootballClubId": "d", "listOfCities": ["Duisburg FC", "Dortmund"]},
     ],
+    "startupNameSuggestion": [
+        {"startupNameId": "a", "listOfFruits": ["Airbnb"]},
+        {"startupNameId": "b", "listOfFruits": ["B", ""]},
+        {"startupNameId": "c", "listOfFruits": ["Chuxing", "Charmeon"]},
+        {"startupNameId": "d", "listOfFruits": ["Didi Cuxhing"]},
+    ],
     "profile": {
         "name": "typecode"
     }
